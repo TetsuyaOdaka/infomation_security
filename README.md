@@ -1,1 +1,1 @@
-# infomation_security
+# 経営者のための情報セキュリティー
